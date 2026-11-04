@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "3L1_XD\\x64\\Debug\\3L1_XD.obj",
+            "outputs": [
+                "3L1_XD\\x64\\Debug\\3L1_XD.cpp.obj.dt.module.json",
+                "3L1_XD\\x64\\Debug\\3L1_XD.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
